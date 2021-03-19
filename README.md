@@ -1,3 +1,3 @@
-# kristinalabayova.github.io
+  # Layout
 
-*My first website*
+  Simple advert for upcoming Phone
